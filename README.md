@@ -56,3 +56,5 @@ docker run -d -p 80:80 kuxar/05-virt-03-docker:3
 #
     Задание 4
 #
+Не успеваю разобраться с ошибкой
+![img_4.png](img_4.png)
